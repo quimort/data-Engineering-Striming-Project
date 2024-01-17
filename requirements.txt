@@ -1,0 +1,10 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+confluent-kafka==2.3.0
+idna==3.6
+json5==0.9.14
+numpy==1.26.3
+py4j==0.10.9.7
+pyspark==3.5.0
+requests==2.31.0
+urllib3==2.1.0
